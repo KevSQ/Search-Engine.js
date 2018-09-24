@@ -1,0 +1,23 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  text-align: center;
+}
+
+/* place your styles below */
+
+#search {
+	display: flex;
+	margin: 0 auto;
+	justify-content: center;
+}
+
+#display {
+	
+}
